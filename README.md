@@ -30,15 +30,46 @@ e-Rakyat ID is a next-generation digital identity platform that brings Malaysiaâ
 - Auto-filled applications
 - Transport subsidies and passes
 
-## Getting Started
+### FEATURES:
 
-This project is a starting point for a Flutter application.
+#### Logging In 
+1. Tap Card
+<img src = "https://github.com/rdn-slm/hackathon-E-RakyatID/blob/main/e-rakyatID-tap.gif" width=30% height=30%>
 
-A few resources to get you started if this is your first Flutter project:
+2. Scan QR
+<img src = "https://github.com/rdn-slm/hackathon-E-RakyatID/blob/main/e-rakyatID-scan-qr.gif" width=30% height=30%>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Card Reader
+<img src = "https://github.com/rdn-slm/hackathon-E-RakyatID/blob/main/e-rakyatID-card-reader.gif" width=30% height=30%>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Education Access as one of the example (feel free to explore!)
+<img src = "https://github.com/rdn-slm/hackathon-E-RakyatID/blob/main/e-rakyatID-education.gif" width=30% height=30%>
+
+5. Navigation Bar
+<img src = "https://github.com/rdn-slm/hackathon-E-RakyatID/blob/main/e-rakyatID-navbar.gif" width=30% height=30%>
+
+# E-RakyatID from Team Pixory
+## Team Members:
+<p>
+  <a href="https://github.com/najma-shakirah" 
+           target="_blank">Najma Shakirah binti Shahrulzaman
+</a>
+</p>
+
+<p>
+<a href="https://github.com/Mirahbhain" 
+           target="_blank">Siti Nurul Amirah binti Sheikh Sulaiman 
+</a>
+</p>
+
+<p>
+<a href="https://github.com/nawwarah-auni" 
+           target="_blank">Nawwarah Auni binti Nazrudin
+</a>
+</p>
+
+<p>
+<a href="https://github.com/rdn-slm" 
+           target="_blank">Raden Salma Humaira binti Muhammad Mun'im
+</a>
+</p>
